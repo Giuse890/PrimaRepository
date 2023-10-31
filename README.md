@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @giuse.campanelli
+- 👀 I’m interested in IT
+- 🌱 I’m currently learning new programming language
